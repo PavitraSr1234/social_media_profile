@@ -35,7 +35,7 @@ H1{
 
 
 
-p{
+p {
     font-size: 20px;
     font-weight: lighter;
     color: #fff;
@@ -71,7 +71,7 @@ li {
 }
 
 
-li:hover{
+li:hover {
             color: #292929;
             border: 1px solid #292929;
             transition: .5s;
